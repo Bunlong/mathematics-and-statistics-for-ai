@@ -62,10 +62,15 @@ $$
 Addition:
 
 $$
-\mathbf{a}+\mathbf{b}
+\mathbf{a} + \mathbf{b}
 =
 \begin{bmatrix}
-6\\
+2 + 4 \\
+3 + 1
+\end{bmatrix}
+=
+\begin{bmatrix}
+6 \\
 4
 \end{bmatrix}
 $$
@@ -73,21 +78,31 @@ $$
 Subtraction:
 
 $$
-\mathbf{a}-\mathbf{b}
+\mathbf{a} - \mathbf{b}
 =
 \begin{bmatrix}
--2\\
+2 - 4 \\
+3 - 1
+\end{bmatrix}
+=
+\begin{bmatrix}
+-2 \\
 2
 \end{bmatrix}
 $$
 
-Scalar multiplication:
+Scalar Multiplication:
 
 $$
-\mathbf{3a} =
+3\mathbf{a}
+=
+3\begin{bmatrix}
+2 \\
+3
+\end{bmatrix}
+=
 \begin{bmatrix}
 6 \\
 9
 \end{bmatrix}
 $$
-
