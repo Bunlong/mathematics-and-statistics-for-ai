@@ -62,13 +62,11 @@ $$
 Addition
 
 $$
-\mathbf{a} + \mathbf{b}
-=
+\mathbf{a} + \mathbf{b} =
 \begin{bmatrix}
 2 + 4 \\
 3 + 1
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
 6 \\
 4
@@ -78,13 +76,11 @@ $$
 Subtraction
 
 $$
-\mathbf{a} - \mathbf{b}
-=
+\mathbf{a} - \mathbf{b} =
 \begin{bmatrix}
 2 - 4 \\
 3 - 1
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
 -2 \\
 2
@@ -94,13 +90,11 @@ $$
 Scalar Multiplication
 
 $$
-3\mathbf{a}
-=
+3\mathbf{a} =
 3\begin{bmatrix}
 2 \\
 3
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
 6 \\
 9
