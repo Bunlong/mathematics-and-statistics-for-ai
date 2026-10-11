@@ -59,7 +59,7 @@ $$
 \end{bmatrix}
 $$
 
-Addition:
+Addition
 
 $$
 \mathbf{a} + \mathbf{b}
@@ -75,7 +75,7 @@ $$
 \end{bmatrix}
 $$
 
-Subtraction:
+Subtraction
 
 $$
 \mathbf{a} - \mathbf{b}
@@ -91,7 +91,7 @@ $$
 \end{bmatrix}
 $$
 
-Scalar Multiplication:
+Scalar Multiplication
 
 $$
 3\mathbf{a}
